@@ -2,7 +2,8 @@ import openai
 import json
 import csv
 import key
-from flask import Flask, render_template, send_from_directory
+from flask import Flask, render_template, send_from_directory, jsonify, request
+from urllib.parse import unquote
 from langchain.document_loaders import JSONLoader
 from langchain.document_loaders import CSVLoader
 from pathlib import Path
@@ -30,6 +31,7 @@ def get_image():
 @app.route('/rave.jpg')
 def get_image2():
     return send_from_directory('', 'rave.jpg')
+
 
 openai.api_key = key.key
 os.environ['OPENAI_API_KEY'] = key.key
@@ -143,10 +145,23 @@ def get_bot_response(message: str, pl: list[dict]) -> str:
     
     return bot_response
 
+@app.route('/chat', methods=['POST'])
+def chat():
+    translator = Translator()
+    user_message = unquote(request.form.get('message'))
+    lang = detect(user_message)
+    translated = translator.translate(user_message, dest='fr')
+    docs = db.similarity_search(user_message)
+    translated = docs[0].page_content
+    translated = translator.translate(translated, dest=lang)
+    result = str(translated)
+    return jsonify({'bot_response': result})
+
+
 # load it into Chroma
 db = Chroma.from_documents(docs, embedding_function)
+prompt_list = [{'role': 'system', 'content': 'You are an expert capable of meeting all the needs of a festival, both internally and externally. Central point of interaction with festival-goers. - Answer questions about tickets, schedules, and more. Provide multilingual support.'}]
 def main():
-    prompt_list = [{'role': 'system', 'content': 'You are an expert capable of meeting all the needs of a festival, both internally and externally. Central point of interaction with festival-goers. - Answer questions about tickets, schedules, and more. Provide multilingual support.'}]
     translator = Translator()
     while True:
         user_input: str = input('You: ')
@@ -161,4 +176,5 @@ def main():
         print(f'Bot: {translated}')
 
 if __name__ == '__main__':
+    app.run(debug=True)
     main()

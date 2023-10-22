@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interfață Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f8fc;
+            margin: 0;
+            padding: 0;
+            
+            
+            background-size: height=100%;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: 20%, 50%;
+        }
+
+        #chat-container {
+            position: fixed;
+            bottom: 50px;
+            right: 45px;
+            z-index: 1000;
+        }
+
+        #chatbox {
+            width: 400px;
+            height: 500px;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            background-color: #233142;
+            display: none;
+            position: relative;
+          /*  outline-style: solid; */
+          /*  outline-width: thick; */  
+        }
+
+        .gradient-border-pseudo {
+            position: relative;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 5px;
+        }
+
+        #chatbox-header {
+            background-image: linear-gradient(to bottom right, midnightblue, indigo);
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        #messages {
+            height: 370px;
+            overflow-y: auto;
+            padding: 20px;
+        }
+
+        #messages p {
+            padding: 10px 15px;
+            border-radius: 12px;
+            margin-bottom: 10px;
+        }
+
+        .user-message {
+            color: white;
+            text-align: right;
+            background-color: #48525e;
+            display: inline-block;
+        }
+
+        .bot-message {
+            color: white;
+            background-color: #616f80;
+        }
+
+        #input-area {
+            display: flex;
+            padding: 10px 20px;
+            gap: 10px;
+            border-top: 1px solid #e6e6e6;
+        }
+
+        #input-area input {
+            flex: 1;
+            padding: 10px;
+            border-radius: 12px;
+            border: none;
+            outline: none;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #input-area button {
+            padding: 10px 20px;
+            background-image: linear-gradient(to bottom right, indigo, midnightblue);
+            border: none;
+            color: white;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            flex-shrink: 0; /* Prevent button from shrinking */
+        }
+
+        #input-area button:hover {
+            background-color: #0056b3;
+        }
+
+        .bot-icon {
+            background-image: url('download.jpg');
+            background-size: cover;
+            width: 40px;
+            height: 40px;
+            display: inline-block;
+            border-radius: 50%;
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+
+        #toggle-chat-button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1001; /* Ensure it's above the chatbox */
+        }
+
+        #toggle-chat-button:hover {
+            background-color: #0056b3;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Your existing website content here -->
+
+    <div id="chat-container">
+        <button id="toggle-chat-button" onclick="toggleChat()">+</button>
+        <div id="chatbox">
+            <div id="chatbox-header">Zenko.AI</div>
+            <div id="messages"></div>
+            <div id="input-area">
+                <input type="text" id="user-input" placeholder="Scrie un mesaj...">
+                <button onclick="sendMessage()">Trimite</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            const inputElement = document.getElementById('user-input');
+            const message = inputElement.value;
+    
+            if (message.trim() === '') return;
+    
+            displayMessage(message, 'user-message');
+    
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: `message=${encodeURIComponent(message)}`
+            });
+            const responseData = await response.json();
+            displayMessage('<span class="bot-icon"></span> ' + responseData.bot_response, 'bot-message');
+            
+            inputElement.value = '';
+        }
+    
+        function toggleChat() {
+            const chatbox = document.getElementById('chatbox');
+            const toggleButton = document.getElementById('toggle-chat-button');
+            if (chatbox.style.display === 'block') {
+                chatbox.style.display = 'none';
+                toggleButton.innerText = '+';
+            } else {
+                chatbox.style.display = 'block';
+                toggleButton.innerText = 'x';
+            }
+        }
+    
+        function displayMessage(message, className) {
+            const messagesContainer = document.getElementById('messages');
+            const messageElement = document.createElement('p');
+            messageElement.className = className;
+            messageElement.innerHTML = message;
+            messagesContainer.appendChild(messageElement);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+    </script>
+    <img src = "/rave.jpg" style="height=100%">
+</body>
+</html>
