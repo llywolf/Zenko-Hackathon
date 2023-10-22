@@ -1,5 +1,5 @@
 {
-    "Général": [
+    "General": [
         {
             "question": "Quelle est l’histoire de la FDV ?",
             "answer": "Le Corso fleuri est à l’origine de la Fête des Vendanges. En 1902, c’est sous l’impulsion de membres « Club de cycliste de Neuchâtel » souhaitant marquer la fin des vendanges par un défilé original, que naîtra la 1re Edition du Corso Fleuri. Ce défilé, inscrit au patrimoine culturel immatériel de l’humanité, fait la fierté et la renommée de la ville de Neuchâtel, de sa région et du canton. Après plus d’un siècle et plus de 90 éditions, d’autres événements culturels et festifs sont venus se greffer. Avec le CORTÈGE DES GUGGENMUSIK DU VENDREDI SOIR ET WEEK-END, le CORTÈGE DES ENFANTS DU SAMEDI APRÈS-MIDI, la SCÈNE PLACE NUMA-DROZ, le SPECTACLE PYRO-MÉLODIQUE DU SAMEDI SOIR, Le village des vignerons à la rue du Seyon. Tous ces événements se déroulent au milieu d’une multitude de stands, dans la liesse populaire qui attire chaque année plus de 300’000 personnes dans cette localité qui compte habituellement 35’000 habitants. La manifestation se déroule chaque année le dernier weekend de septembre, du vendredi soir au dimanche soir. Traditionnellement, le dimanche après-midi, le Corso Fleuri défile sur l’avenue du Premier-Mars. Il attire plusieurs dizaines de milliers de spectateurs venus de toute la Suisse et d’ailleurs. Grâce à votre soutien, sponsoring, partenariat, nous pouvons poursuivre notre mission, d’année en année, en restant dynamique, innovant et s’adaptant à notre temps. Nous nous réjouissons de vous compter parmi nos partenaires, sponsors, afin de profiter d’une belle collaboration pour un événement qui fait partie de notre canton et culture."
@@ -129,7 +129,7 @@
             "answer": "Péristyle (Hôtel-de-Ville)"
         }
     ],
-    "Gerle d’or": [
+    "Golden Gerle": [
         {
             "question": "Qu’est-ce que la Gerle d’Or ?",
             "answer": "Le concours de la FDV pour le meilleur vigneron du canton de Neuchâtel"
@@ -143,7 +143,7 @@
             "answer": "27"
         }
     ],
-    "Miss et mister fdv": [
+    "Miss and mister fdv": [
         {
             "question": "Quels sont les lauréats du concours Miss et Mister Fête des Vendanges Neuchâtel ?",
             "answer": "Les lauréats du concours 2023 sont: Miss Fête des Vendanges Neuchâtel : Maeva Cosandier,1ere dauphine : Valéria Abaunza Agudelo, 2e dauphine : Marie-Madeleine Gueissaz Mister Fête des Vendanges Neuchâtel : Ivan Buonocore, 1er dauphin : Pasquale Civitillo, 2e dauphin : Loris Profico"
@@ -185,13 +185,13 @@
             "answer": "Adulte 55frs, Adolescent (12 ans à 17 ans) : 25frs"
         }
     ],
-    "Partenariat": [
+    "Partnership": [
         {
             "question": "Ou s’inscrire pour le partenariat ?",
             "answer": "https://fete-des-vendanges.ch/espace-partenaires/"
         }
     ],
-    "Partie stand": [
+    "Stand part": [
         {
             "question": "Combien de stands il y a ?",
             "answer": "Cette année (2023), un record est atteint : près de 300 stands viendront égayer notre événement, parmi eux, nos associations et le Village des vignerons véritable signature de la FDV, reprendront leur place pour le plus grand plaisir des visiteurs. Découverte, partage et innovation seront les maîtres mots. Les stands, reflètent l’essence même de notre événement : promouvoir la diversité et la passion de nos exposants. Que vous soyez à la recherche de nouveautés, de traditions ou tout simplement de moments conviviaux, il y en aura pour tous les goûts."
@@ -269,7 +269,7 @@
             "answer": "11:00 OUVERTURE FÊTE, 12:00 - 12:30 SPECTACLE DANSE - Groove Academy, 13:00 - 14:30 CONCERT - BBM 74, 15:00 - 15:30 SPECTACLE DANSE - Fréquence Rock, 15:00 - 17:00 CORSO FLEURI, 17:00 - 17:30 SPECTACLE DANSE - Fréquence Rock, 18:00 - 18:30 BATAILLE DE CONFETTIS, 18:30 - 20:00 PRÉSENTATION MISS&MISTER FDV NE, 20:00 - 23:00 DJ LIVE - DJ Rino et DJ Fada."
         }
     ],
-    "Partie bracelet": [
+    "Bracelet part": [
         {
             "question": "Comment payer aux carrousels ?",
             "answer": "Le paiement aux carrousels sera uniquement possible avec cash ou carte de débit/crédit. Les bracelets ne sont pas valables pour cette place."
@@ -383,7 +383,7 @@
             "answer": "Vous pouvez récupérer le solde de votre bracelet, dès le lundi 25 septembre jusqu’au 31 octobre 2023. Il vous suffira d’aller sur le site internet : www.fete-des-vendanges.ch/bracelets, et de créer un compte. Les remboursements se font uniquement par virement bancaire."
         }
     ],
-    "Partie Goblet": [
+    "Goblet Part": [
         {
             "question": "Quel est le prix de la consigne ?",
             "answer": "Le prix de la consigne est de CHF 2.- par verre"
@@ -409,7 +409,7 @@
             "answer": "VENDREDI de 18h00 à 04h00, SAMEDI de 19h00 à 04h00, DIMANCHE de 18h00 à 00h00"
         }
     ],
-    "Partie Corso": [
+    "Corso Part": [
         {
             "question": "Ou puis je acheter des billets pour le corso fleuri ?",
             "answer": "Les billets sont en vente aux guichets de la société de la Navigation au Port de Neuchâtel, aux guichets transN du canton et sur notre site internet à l’adresse : billetterie.fete-desvendanges.ch (places assises uniquement), puis également aux caisses du corso le dimanche 24 septembre."
@@ -485,7 +485,7 @@
             "answer": "Rentrez en toute sécurité grâce aux nombreuses navettes spéciales transN et CFF qui desservent le littoral, le Val-de-Ruz, le Val-de-Travers et les Montagnes neuchâteloises dans les nuits de vendredi à samedi et de samedi à dimanche."
         }
     ],
-    "Incident police": [
+    "Police Incident": [
         {
             "question": "Que faire pour éviter les voles durant la fdv ?",
             "answer": "Les pickpockets se dissimulent dans la foule et les quelques conseils suivants s’impose : verrouillez votre véhicule et ne laissez pas d’objets de valeur visibles à l’intérieur. Ne laissez jamais votre sac à main sans surveillance, rangez votre portemonnaie et votre téléphone portable dans une poche difficile d’accès, ne prenez dans votre portemonnaie que l’essentiel, annoncez, sans délai, tout comportement suspect à la police (117) et donnez le plus d’informations possible."
@@ -503,7 +503,7 @@
             "answer": "117 ou ? sur natel verrouillé"
         }
     ],
-    "Incident Pompier": [
+    "Firefighter incident": [
         {
             "question": "Quel est le numéro des pompiers ?",
             "answer": "118"
@@ -513,7 +513,7 @@
             "answer": "Appeler les pompiers (118)"
         }
     ],
-    "Incident Ambulance": [
+    "Ambulance Incident": [
         {
             "question": "Quel numéro en cas d’urgence vital ?",
             "answer": "144"
@@ -523,19 +523,19 @@
             "answer": "Le SIS aura trois postes avec de la médecine d'urgence, ils seront à la place Pury, aux Terreaux et à la Promenade."
         }
     ],
-    "Incident Empoisonnement": [
+    "Poisoning Incident": [
         {
             "question": "Quel numéro pour un empoisonnement ?",
             "answer": "145"
         }
     ],
-    "Incident Fdv": [
+    "Fdv Incident": [
         {
             "question": "Ou amener un objet trouvé ?",
             "answer": "Péristyle (Hôtel-de-ville)"
         }
     ],
-    "Incident Enfant perdu": [
+    "Lost Child Incident": [
         {
             "question": "Que faire pour que l’on retrouve mon enfant facilement ?",
             "answer": "Des bracelets d’identification seront distribués aux points de rechargement à mettre au poignet de l’enfant avec le numéro de la personne à contacter."
@@ -549,7 +549,7 @@
             "answer": "Enfants égarés appeler la permanence FDV – 032 724 07 87"
         }
     ],
-    "Accueil dodo": [
+    "Home to sleep": [
         {
             "question": "Que ’est-ce que l’accueil dodo ?",
             "answer": "Vous avez bien fait la fête et vous n’avez plus la force de rentrer ? Vous avez raté votre train ? Trop fatigué pour prendre le volant ? Vous souhaitez vous reposer avant de repartir ? Accueil DODO propose un lieu à l’abri pour toutes celles et tous ceux qui veulent dormir ailleurs que dans la rue. Accueil DODO c’est un lieu de repos, mais aussi un stand distribuant son légendaire thé et d’autres boissons, ainsi que des sandwichs et pâtisseries généreusement offerts par plusieurs boulangeries de la région. Il est a noter qu’Accueil DODO c’est une présence chrétienne."

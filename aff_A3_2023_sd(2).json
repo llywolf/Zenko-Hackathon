@@ -1,0 +1,572 @@
+[
+    {
+        "N°": "101",
+        "Lines": "Neuchâtel - Marin",
+        "Departure location": [
+            {
+                "Friday": "Université "
+            },
+            {
+                "Saturday": "Université "
+            },
+            {
+                "Sunday": [
+                    "Jusqu’à 18h : Hôpital Pourtalès",
+                    "Dès 18h : Université"
+                ]
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Thu": "Ne circule plus dans la rue du Seyon dès 17h50"
+            },
+            {
+                "Fri": " Toutes les 10 min. de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sat": "Toutes les 10 min. de 7h à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sun": " De 11h à 13h29 toutes les 10 min. De13h30 à 19h20 toutes les 5 min. De 19h21 à 21h toutes les 10 min. Dès 21h01 toutes les 20 minutes. Dernier départ selon l’horaire habituel"
+            }
+        ]
+    },
+    {
+        "N°": "101",
+        "Lines": "Neuchâtel - Cormondrèche",
+        "Departure location": [
+            {
+                "Friday": "Ecluse"
+            },
+            {
+                "Saturday": "Ecluse"
+            },
+            {
+                "Sunday": "Ecluse"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Thu": "Ne circule plus dans la rue du Seyon dès 17h50"
+            },
+            {
+                "Fri": " Toutes les 10 min. de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sat": "Toutes les 10 min. de 7h à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sun": " De 11h à 13h29 toutes les 10 min. De13h30 à 19h20 toutes les 5 min. De 19h21 à 21h toutes les 10 min. Dès 21h01 toutes les 20 minutes. Dernier départ selon l’horaire habituel"
+            }
+        ]
+    },
+    {
+        "N°": "102",
+        "Lines": "Neuchâtel, Oriette - Serrières",
+        "Departure location": [
+            {
+                "Friday": "Oriette, quai A"
+            },
+            {
+                "Saturday": [
+                    "Jusqu’à 18h40 : Oriette, quai A",
+                    " De 18h50 à 22h30 : Régional",
+                    "Dès 22h40 : Oriette, quai A"
+                ]
+            },
+            {
+                "Sunday": "Oriette, quai A"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": " Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sat": " Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sun": " Toutes les 10 min de 12h à 21h puis toutes les 20 min. Dernier départ selon l’horaire habituel"
+            }
+        ]
+    },
+    {
+        "N°": "102",
+        "Lines": "2 Neuchâtel, Terreaux Muséum - Temple des Valangines",
+        "Departure location": [
+            {
+                "Friday": "Terreaux Muséum"
+            },
+            {
+                "Saturday": "Terreaux Muséum"
+            },
+            {
+                "Sunday": "Terreaux Muséum"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sat": "Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sun": "Toutes les 10 min de 12h à 21h puis toutes les 20 min. Dernier départ selon l’horaire habituel"
+            }
+        ]
+    },
+    {
+        "N°": "106",
+        "Lines": "Neuchâtel, Oriette - Gare (Nord) - Vallon de l’Ermitage",
+        "Departure location": [
+            {
+                "Friday": "Oriette, quai B"
+            },
+            {
+                "Saturday": "Oriette, quai B"
+            }
+        ],
+        "TIMETABLE": "Horaire habituel"
+    },
+    {
+        "N°": "106",
+        "Lines": "Neuchâtel, Oriette - Gare (Nord) - Rocher",
+        "Departure location": [
+            {
+                "Friday": "Oriette, quai B"
+            },
+            {
+                "Saturday": "Oriette, quai B"
+            },
+            {
+                "Sunday": "Oriette, quai B"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": " Toutes les 20 min. de 19h à minuit"
+            },
+            {
+                "Sat": " Toutes les 15 min. de 5h16 à 8h et de 22h30 à minuit. Interrompue de 18h30 à 22h30"
+            },
+            {
+                "Sun": "Toutes les 20 min. de 6h30 à 20h"
+            }
+        ]
+    },
+    {
+        "N°": "107",
+        "Lines": "Neuchâtel - Hauterive / Marin",
+        "Departure location": [
+            {
+                "Friday": "Terreaux Muséum"
+            },
+            {
+                "Saturday": "Terreaux Muséum"
+            },
+            {
+                "Sunday": "Terreaux Muséum"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": " Toutes les 10 min. de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h. Dernier départ pour Marin de Terreaux Muséum 19h13, ensuite jusqu’à Hauterive uniquement."
+            },
+            {
+                "Sat": " Toutes les 10 min. de 7h à minuit puis toutes les 20 min. jusqu’à 4h. Dernier départ pour Marin de Terreaux Muséum à 17h59, ensuite jusqu’à Hauterive uniquement."
+            },
+            {
+                "Sun": ": Toutes les 5 min. dès 13h10 jusqu’à 21h puis toutes les 20 min. Dernier départ selon l’horaire habituel (→ Hauterive)"
+            }
+        ]
+    },
+    {
+        "N°": "109",
+        "Lines": "Neuchâtel, Terreaux Muséum - Trois-Chênes",
+        "Departure location": [
+            {
+                "Friday": "Terreaux Muséum"
+            },
+            {
+                "Saturday": "Terreaux Muséum"
+            },
+            {
+                "Sunday": "Terreaux Muséum"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "Toutes les 10 min de la 1ère course à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sat": "Toutes les 10 min de 7h à minuit puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sun": "Toutes les 20 min. de 9h03 à 12h puis toutes les 10 min de12h à 21h puis toutes les 20 min. Dernier départ selon l’horaire habituel"
+            }
+        ]
+    },
+    {
+        "N°": "110",
+        "Lines": "Neuchâte-Université - Gare (Fun’ambule)",
+        "Departure location": [
+            {
+                "Friday": "Université (FUNI)"
+            },
+            {
+                "Saturday": "Université (FUNI)"
+            },
+            {
+                "Sunday": "Université (FUNI)"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "A la demande jusqu’à 1h"
+            },
+            {
+                "Sat": "A la demande jusqu’à 1h"
+            },
+            {
+                "Sun": "Horaire habitue"
+            }
+        ]
+    },
+    {
+        "N°": "111",
+        "Lines": "Neuchâtel, La Coudre - Chaumont",
+        "Departure location": [
+            {
+                "Friday": "La Coudre (FUNI)"
+            },
+            {
+                "Saturday": "La Coudre (FUNI)"
+            },
+            {
+                "Sunday": "La Coudre (FUNI)"
+            }
+        ],
+        "TIMETABLE": "Les courses habituellement sur réservation se font d’office"
+    },
+    {
+        "N°": "112",
+        "Lines": "Neuchâtel, Ecluse - Plan",
+        "Departure location": [
+            {
+                "Friday": "Ecluse (FUNI)"
+            },
+            {
+                "Saturday": "Ecluse (FUNI)"
+            },
+            {
+                "Sunday": "Ecluse (FUNI)"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "A la demande de 16h à 4h"
+            },
+            {
+                "Sat": "A la demande jusqu’à 4h"
+            },
+            {
+                "Sun": "Horaire habituel"
+            }
+        ]
+    },
+    {
+        "N°": "120",
+        "Lines": "Neuchâtel - Chambrelien / Les Gratte de bise",
+        "Departure location": [
+            {
+                "Friday": "Gare (Nord)"
+            },
+            {
+                "Saturday": "Gare (Nord)"
+            },
+            {
+                "Sunday": "Gare (Nord)"
+            }
+        ],
+        "TIMETABLE": "Horaire habituel"
+    },
+    {
+        "N°": "120",
+        "Lines": "Colombier - Les Grattes de bise - Montmollin - Corcelles",
+        "Departure location": [
+            {
+                "Friday": "Colombier, Bas-des-Allées"
+            },
+            {
+                "Saturday": "Colombier, Bas-des-Allées"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": " 20h13 / 20h43 / 21h13 / 21h43 / 22h13 / 22h33 / 22h56 / 23h31 / 00h31 / 01h31 / 02h31 / 03h31 /04h23"
+            },
+            {
+                "Sat": ": 20h13 / 20h43 / 21h13 / 21h43 / 22h13 / 22h43 / 23h13 / 23h43 / 00h13 / 00h43 / 01h13 / 01h43 /02h13 / 02h33 / 03h33 / 04h23"
+            },
+            {
+                "Attention": "Le bus circule uniquement dans le sens Colombier, Bôle, Chambrelien, Rochefort, Les Grattes de bise, Montmollin, Corcelles Pharmacie"
+            }
+        ]
+    },
+    {
+        "N°": "121",
+        "Lines": "Neuchâtel, Université - Piscines",
+        "Departure location": [
+            {
+                "Friday": "Université"
+            },
+            {
+                "Saturday": "Université"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "Horaire habituel. Départs supplémentaires à 20h38 et 20h42 de Université"
+            },
+            {
+                "Sat": "Horaire habituel jusqu’à 18h50 puis interrompue"
+            }
+        ]
+    },
+    {
+        "N°": "122",
+        "Lines": "Neuchâtel, Gare (Nord) - Vauseyon",
+        "Departure location": [
+            {
+                "Friday": "Gare (Nord)"
+            },
+            {
+                "Saturday": "Gare (Nord)"
+            }
+        ],
+        "TIMETABLE": "Horaire habituel"
+    },
+    {
+        "N°": "131",
+        "Lines": "St-Blaise - Enges - Lignières*",
+        "Departure location": [
+            {
+                "Friday": "St-Blaise, centre"
+            },
+            {
+                "Saturday": "St-Blaise, centre"
+            }
+        ],
+        "TIMETABLE": "Toutes les heures de 1h30 à 4h30"
+    },
+    {
+        "N°": "150",
+        "Lines": "Neuchâtel - Thielle - Cornaux - Cressier - Le Landeron* ",
+        "Departure location": [
+            {
+                "Friday": "Université"
+            },
+            {
+                "Saturday": "Université"
+            }
+        ],
+        "TIMETABLE": "Toutes les heures de 1h à 4h"
+    },
+    {
+        "N°": "215",
+        "Lines": "Neuchâtel - Boudry (Littorail)",
+        "Departure location": [
+            {
+                "Friday": "Place Pury Littorail"
+            },
+            {
+                "Saturday": "Jusqu’à 19h26 : Place Pury Littorail De 19h40 à 22h30 : Evole Dès 22h40 : Place Pury Littorail"
+            },
+            {
+                "Sunday": "Place Pury Littorail"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "Toutes les 10 min. de 16h à 2h20 puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sat": "Toutes les 10 min. de 13h à 2h puis toutes les 20 min. jusqu’à 4h"
+            },
+            {
+                "Sun": ": Toutes les 10 min. de 12h à 20h20 puis toutes les 20 min. jusqu’à 0h20. Aux heures de plus forte affluence, des bus supplémentaires circulent en renfort sans horaires. Départs Oriette, quai C."
+            }
+        ]
+    },
+    {
+        "N°": "221",
+        "Lines": "Neuchâtel - Fleurier",
+        "Departure location": [
+            {
+                "Friday": "Neuchâtel"
+            },
+            {
+                "Saturday": "Neuchâtel"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "départs à 2h59"
+            },
+            {
+                "Sat": "départs à 2h59"
+            }
+        ]
+    },
+    {
+        "N°": "223",
+        "Lines": "Neuchâtel - La Chaux-de-Fonds - Le Locle *",
+        "Departure location": [
+            {
+                "Friday": "Neuchâtel "
+            },
+            {
+                "Saturday": "Neuchâtel "
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "départs à 3h11"
+            },
+            {
+                "Sat": "départs à 3h11"
+            }
+        ]
+    },
+    {
+        "N°": "421",
+        "Lines": "Neuchâtel - Savagnier - Cernier",
+        "Departure location": [
+            {
+                "Friday": "Oriette, quai A"
+            },
+            {
+                "Saturday": "Jusqu’à 19h02 : Oriette, quai A De 19h30 à 22h45 : Prébarreau Dès 00h10 : Oriette, quai A"
+            },
+            {
+                "Sunday": "Oriette, quai A"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "Cernier : 19h22 / 19h52 / 20h22 / 23h31 Oriette : 20h00 / 22h30 / 01h10 / 02h10 / 03h10 / 04h00 /04h10"
+            },
+            {
+                "Sat": "Cernier : 17h21 / 17h51 / 18h21 / 18h51 / 19h21 / 19h51 / 20h21 / 21h51 Oriette : 17h02 / 18h02 /19h02 / 01h10 / 02h10 /03h10 / 04h00 / 04h10 Prébarreau : 20h00 / 20h30 / 21h00 / 22h30"
+            },
+            {
+                "Sun": " Cernier : 12h21 / 15h21 / 16h35 / 19h51 Oriette : 11h32 / 13h02 / 14h32 / 16h02 / 17h32 / 18h02 (jusqu’à Savagnier) / 19h02 / 20h32 / 22h02 / 23h02 / 00h10"
+            }
+        ]
+    },
+    {
+        "N°": "422",
+        "Lines": "Neuchâtel - Cernier - Villiers",
+        "Departure location": [
+            {
+                "Friday": "Oriette, quai A"
+            },
+            {
+                "Saturday": "Jusqu’à 19h10 : Oriette, quai A De 19h30 à 22h10 : Prébarreau Dès 22h28 : Oriette, quai A"
+            },
+            {
+                "Sunday": "Oriette, quai A"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "Toutes les heures de minuit à 4h"
+            },
+            {
+                "Sat": "19h à minuit toutes les 20min. Toutes les heures de minuit à 4h"
+            },
+            {
+                "Sun": "19h à minuit toutes les 20 min. Dernier départ selon horaire habituel"
+            }
+        ]
+    },
+    {
+        "N°": "424",
+        "Lines": "Neuchâtel - Boudevilliers - Coffrane - Les Geneveys-sur-Coffrane - Les Hauts-Geneveys - Cernier",
+        "Departure location": [
+            {
+                "Friday": "Oriette, quai B"
+            },
+            {
+                "Saturday": "Oriette, quai B"
+            },
+            {
+                "Sunday": "Oriette, quai B"
+            }
+        ],
+        "TIMETABLE": [
+            {
+                "Fri": "Toutes les heures de minuit à 4h"
+            },
+            {
+                "Sat": "Toutes les heures de minuit à 4h"
+            },
+            {
+                "Sun": "Départ à 00h06"
+            }
+        ]
+    },
+    {
+        "N°": "612",
+        "Lines": "Neuchâtel - Bevaix - St-Aubin - Vaumarcus",
+        "Departure location": [
+            {
+                "Friday": "Oriette, quai C"
+            },
+            {
+                "Saturday": "Oriette, quai C"
+            }
+        ],
+        "TIMETABLE": "Toutes les heures de minuit à 4h, sans arrêt entre Oriette et Giratoire 3 Communes"
+    },
+    {
+        "N°": "612",
+        "Lines": "Boudry Littorail, gare - Boudry, gare*",
+        "Departure location": [
+            {
+                "Friday": "Boudry Littorail, gare"
+            },
+            {
+                "Saturday": "Boudry Littorail, gare"
+            }
+        ],
+        "TIMETABLE": "Départ à : 01h38 / 02h18 / 02h58 / 03h38 / 04h18 / 04h38"
+    },
+    {
+        "N°": "613",
+        "Lines": "Areuse - Cortaillod* ",
+        "Departure location": [
+            {
+                "Friday": "Areuse Littorail, gare "
+            },
+            {
+                "Saturday": "Areuse Littorail, gare "
+            }
+        ],
+        "TIMETABLE": "Toutes les 20 min. de 00h37 à 03h57 puis 04h14 et 04h25"
+    },
+    {
+        "N°": "613",
+        "Lines": "Boudry - Perreux*",
+        "Departure location": [
+            {
+                "Friday": "Boudry Littorail, gare"
+            },
+            {
+                "Saturday": "Boudry Littorail, gare"
+            }
+        ],
+        "TIMETABLE": "Départs à : 01h18 / 01h58 / 02h38 / 03h18 / 03h58 / 04h38"
+    }
+]

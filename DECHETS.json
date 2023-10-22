@@ -1,0 +1,87 @@
+{
+    "Harvest Festival": [
+        {
+            "Message": "For a more beautiful party, let's sort our waste"
+        },
+        {
+            "Recyclable waste": [
+                {
+                    "Sorting at source drink": "Please sort the drink containers (glass,PET,aluminum bottles) directly in your stand, and only serve the glasses to the public"
+                },
+                {
+                    "All sorting equipment must be collected from": [
+                        {
+                            "Waste management center": "Rue du Musee from Friday 2 p.m."
+                        }
+                    ]
+                },
+                {
+                    "Material": [
+                        {
+                            "Auminium/Tinplate": [
+                                {
+                                    "Where": "In closed bags"
+                                },
+                                {
+                                    "To be deposited at": "Waste Management Center"
+                                },
+                                {
+                                    "Time schedule": "Fri:2:00 p.m.- 4:00 a.m. , Sa:12:00 p.m.- 4:00 a.m. , Sun:12:00 p.m.- 4:00 a.m."
+                                }
+                            ],
+                            "PET": [
+                                {
+                                    "Where": "In closed bags"
+                                },
+                                {
+                                    "To be deposited at": "Waste Management Center"
+                                },
+                                {
+                                    "Time schedule": "Fri:2:00 p.m.- 4:00 a.m. , Sa:12:00 p.m.- 4:00 a.m. , Sun:12:00 p.m.- 4:00 a.m."
+                                }
+                            ],
+                            "Cardboard": [
+                                {
+                                    "Where": "Crushed"
+                                },
+                                {
+                                    "To be deposited at": "Waste Management Center"
+                                },
+                                {
+                                    "Time schedule": "Fri:2:00 p.m.- 4:00 a.m. , Sa:12:00 p.m.- 4:00 a.m. , Sun:12:00 p.m.- 4:00 a.m."
+                                }
+                            ],
+                            "Vegetable oil and kitchen waste": [
+                                {
+                                    "Where": "Dans les tonneaux"
+                                },
+                                {
+                                    "To be deposited at": "Waste Management Center"
+                                },
+                                {
+                                    "Time schedule": "Fri:2:00 p.m.- 4:00 a.m. , Sa:12:00 p.m.- 4:00 a.m. , Sun:12:00 p.m.- 4:00 a.m."
+                                }
+                            ],
+                            "Mixed green": [
+                                {
+                                    "Where": "In blue containers"
+                                },
+                                {
+                                    "In": "To empty into the 'glass' bin"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "NORMAL WASTE": [
+                {
+                    "Where": "In closed bags containers"
+                },
+                {
+                    "Message": "At the end of the evening, please put your bags in the containers and NOT IN FRONT OF THE STANDS"
+                }
+            ]
+        }
+    ]
+}

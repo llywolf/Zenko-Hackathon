@@ -1,0 +1,165 @@
+[
+    {
+        "Stop": "Croix-du-Marché supprimé",
+        "Line(s)": "101",
+        "Destination": "Cormondrèche",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Ecluse.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Croix-du-Marché supprimé",
+        "Line(s)": "101",
+        "Destination": "Marin",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Ecluse pour prendre la ligne 106 jusqu’à Gare (Nord) puis le Fun’ambule ligne 110 jusqu’à Université pour transborder vers la ligne 101. ",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes. "
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "101",
+        "Destination": "Cormondrèche",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Dès jeudi 17h50, arrêt déplacé : départs depuis Place Pury, quai C. Dès vendredi première course, arrêt supprimé : rendez-vous à l’arrêt Oriette, quai B (sur la rue de la Balance) pour prendre la ligne 106 jusqu’à Ecluse puis transborder vers la ligne 101.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "101",
+        "Destination": "Marin",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Dès jeudi 17h50, arrêt déplacé : départs depuis Place Pury, quai G. Dès vendredi première course, arrêt supprimé : rendez-vous à l’arrêt Oriette, quai B (sur la rue de la Balance) pour prendre la ligne 106 jusqu’à Gare (Nord) puis le Fun’ambule ligne 110 jusqu’à Université pour transborder vers la ligne 101. Durant la nuit, le Fun’ambule circule que jusqu’à 01h00 du matin. Entre 1h et 4h du matin, il convient donc de se rendre à pied à l’arrêt Université.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "102",
+        "Destination": "Serrières",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai A (à30m de l’arrêt habituel).",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "102",
+        "Destination": "Temple des Valangines",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai B (sur la rue de la Balance) pour prendre la ligne 106 jusqu’à Terreaux Muséum puis transborder vers la ligne 102.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "106",
+        "Destination": "Vallon de l’Ermitage",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai B (sur la rue de la Balance).",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes. "
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "107",
+        "Destination": "Hauterive | Marin",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai B (sur la rue de la Balance) pour prendre la ligne 106 jusqu’à Terreaux Muséum puis transborder vers la ligne 107. ",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "109",
+        "Destination": "Trois-Chênes",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai B (sur la rue de la Balance) pour prendre la ligne 106 jusqu’à Terreaux Muséum puis transborder vers la ligne 109.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "121",
+        "Destination": "Piscines",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai B (sur la rue de la Balance) pour prendre la ligne 106 jusqu’à Gare (Nord) puis le Fun’ambule ligne 110 jusqu’à Université pour transborder vers la ligne 121.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Place Pury supprimé",
+        "Line(s)": "421",
+        "Destination": "Savagnier | Cernier",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai A (sur la rue de la Promenade-Noire).",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": " Place Pury supprimé",
+        "Line(s)": "422",
+        "Destination": "Villiers",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Oriette, quai A (sur la rue de la Promenade-Noire).",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Terreaux Muséum supprimé",
+        "Line(s)": "102",
+        "Destination": "Serrières",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Terreaux Muséum pour prendre la ligne 106 jusqu’à Oriette pour transborder vers la ligne 102 départ quai A (à 30m de l’arrêt habituel).",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "St-Honoré supprimé",
+        "Line(s)": [
+            101,
+            102,
+            106,
+            107,
+            109,
+            421
+        ],
+        "Destination": "Gare (Nord)",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Terreaux Muséum.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Numa-Droz supprimé",
+        "Line(s)": "101",
+        "Destination": "Cormondrèche",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Terreaux Muséum.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Jardin Anglais supprimé",
+        "Line(s)": "101",
+        "Destination": "Cormondrèche",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Université pour prendre le Fun’ambule ligne 110 jusqu’à la Gare puis transborder vers la ligne 107 direction Terreaux Muséum qui est fusionnée avec la ligne 101 direction Cormondrèche.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    },
+    {
+        "Stop": "Poste supprimé",
+        "Line(s)": [
+            101,
+            121
+        ],
+        "Destination": "Marin et Piscines",
+        "Dates": "Du 21 septembre 17h50 au 24 septembre dernière course",
+        "Reason": "En raison de la Fête des Vendanges",
+        "New breakingpoint": "Rendez-vous à l’arrêt Université.",
+        "Thanks": "Merci de votre compréhension et bon voyage sur nos lignes."
+    }
+]
