@@ -5,9 +5,11 @@ This project is a Flask web application that uses OpenAI's API and the LangChain
 ## Getting Started
 To get started with this project, you need to clone the repository and install the required dependencies:
 
+```
 git clone <repository-url>
 cd <repository-name>
 pip install -r requirements.txt
+```
 Set your OpenAI API key in a key.py file, the variable has to be named key.
 
 ## File Structure
